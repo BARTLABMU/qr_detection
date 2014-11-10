@@ -1,0 +1,21 @@
+<package>
+  <description brief="qr_detection">
+
+     qr_detection
+
+  </description>
+  <author>BL-Rescue</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/qr_detection</url>
+  <depend package="image_transport"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="roscpp"/>
+  <depend package="zbar"/>
+  <depend package="std_msgs"/>
+  
+
+</package>
+
+

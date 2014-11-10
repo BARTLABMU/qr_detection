@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<launch>
+
+   
+      
+  <node pkg="qr_detection" type="qr_detection" name="qr_detection1" output="screen">
+     <param name="image" type="string" value="image_raw1" />
+     <param name="position" type="string" value="QRL" />
+  </node>
+
+
+
+
+
+</launch>
+
